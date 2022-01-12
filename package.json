@@ -1,0 +1,35 @@
+{
+  "name": "united",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "core-js": "^3.6.5",
+    "sass-loader": "^10.2.0",
+    "vue": "^3.0.0",
+    "vue-easy-lightbox": "^1.2.4",
+    "vue-gallery": "^2.0.1",
+    "vue-light-gallery": "^1.0.1",
+    "vue-picture-swipe": "^2.1.0",
+    "vue-router": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.44.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
